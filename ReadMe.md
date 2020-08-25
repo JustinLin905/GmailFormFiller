@@ -10,7 +10,7 @@ For users working with the Python file, the only dependency is `pyautogui`.
 
 To use this program, click on the Code button and choose Download Zip. Then, extract the zip folder.
 
-From there, you can run either `GmailFormFiller.py` or `GmailFormFiller.exe`. If you don't have a Python installation and just want to use the program out-of-the box, use the `.exe` file. 
+From there, you can run either `GmailFormFiller.py` or `GmailFormFiller.exe`. If you don't have a Python installation and just want to use the program out-of-the-box, use the `.exe` file. 
 
 Upon launching the program, a prompt will ask the user if they want to enter their own credentials to create the new account (name, email address, password, etc.) or if they want the program to generate everything randomly.
 
