@@ -4,8 +4,6 @@ Gmail Form Filler is a Python script which automates certain parts of Google acc
 
 For users working with the Python file, the only dependency is `pyautogui`.
 
-An easy-to-use installer file has been included, which will easily install all of the program files for you. 
-
 **Note that this program is not a bot that can make thousands of Google accounts in seconds.** It is simply a script which fills in the Google account creation webpage automatically, and has added features such as random identity generation. It cannot automate or bypass steps such as phone number verification.
 
 # Usage
